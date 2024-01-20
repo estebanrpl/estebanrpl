@@ -10,6 +10,7 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 * ✉️  Puedes contactarme en el siguiente email [estebanrpl@gmail.com](mailto:estebanrpl@gmail.com)
 * 🔭 Ahora mismo estoy trabajando en proyectos para mejorar mis habilidades con Python y con sus librerias orientadas al Machine Learning, IA y tratamiento de datos.
 * 🧠 Estoy aprendiendo Django porque el campo del Backend me parece muy interesante.
+------------------------------------
 
 ### Skills ⚙️
 
@@ -17,12 +18,14 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
+------------------------------------
 
 ### Proyectos 🚀
 
 [Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
 
 
+------------------------------------
 
 ### Social 👥
 
