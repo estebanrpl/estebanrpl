@@ -26,5 +26,4 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 
 ### Proyectos
 
-<p align="left">
-<a href = "https://github.com/estebanrpl/HELOC_Project">
+(https://github.com/estebanrpl/HELOC_Project)
