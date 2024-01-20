@@ -26,4 +26,4 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 
 ### Proyectos
 
-(https://github.com/estebanrpl/HELOC_Project)
+[Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
