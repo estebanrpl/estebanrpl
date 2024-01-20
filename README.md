@@ -11,7 +11,7 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 * 🔭 Ahora mismo estoy trabajando en proyectos para mejorar mis habilidades con Python y con sus librerias orientadas al Machine Learning, IA y tratamiento de datos.
 * 🧠 Estoy aprendiendo Django porque el campo del Backend me parece muy interesante.
 
-### Skills
+### Skills ⚙️
 
 
 <p align="left">
@@ -19,11 +19,11 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 </p>
 
 
-### Social
+### Social 👥
 
 <p align="left">
 <a href="https://www.linkedin.com/in/esteban-rafael-perez-lizardo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Proyectos
+### Proyectos 🚀
 
 [Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
