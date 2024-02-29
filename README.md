@@ -16,7 +16,7 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
