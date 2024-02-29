@@ -18,8 +18,6 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
 - 📚 &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
@@ -38,9 +36,6 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-- 📞 &nbsp;
-  ![Slack](https://img.shields.io/badge/-slack-333333?style=flat&logo=slack)
-  ![Discord](https://img.shields.io/badge/-discord-333333?style=flat&logo=discord)
  
 ## Proyectos 🚀
  
