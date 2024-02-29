@@ -20,10 +20,19 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 </p>
 
 ### Proyectos 🚀
-* Análisis del mercado laboral IT en España
+#### Análisis del mercado laboral IT en España
+
+------------------------------------
+
 [Repositorio](https://github.com/estebanrpl/IT_Job_Spain_Project-main)
+
+------------------------------------
+
 [Web app](https://spaintechjobs.streamlit.app/)
-*[Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
+
+------------------------------------
+
+[Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
 
 
 ------------------------------------
