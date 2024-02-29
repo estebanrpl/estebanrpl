@@ -12,29 +12,24 @@ Soy científico de datos, y apasionado de la programación en Python. Actualment
 * 🧠 Estoy aprendiendo Django porque el campo del Backend me parece muy interesante.
 
 
-### Skills ⚙️
+## Skills ⚙️
 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
-### 
+## 
 Proyectos 🚀
-### 
-#### Análisis del mercado laboral IT en España
+## 
+### 1. Análisis del mercado laboral IT en España
 
-------------------------------------
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web app](https://spaintechjobs.streamlit.app/)
 
-[Análisis del mercado laboral IT en España](https://github.com/estebanrpl/IT_Job_Spain_Project-main)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repositorio](https://github.com/estebanrpl/IT_Job_Spain_Project-main)
 
-------------------------------------
 
-[Web app mercado laboral IT en España](https://spaintechjobs.streamlit.app/)
-
-------------------------------------
-
-[Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
+### 2. [Modelo predictivo de riesgo crediticio](https://github.com/estebanrpl/HELOC_Project)
 
 
 ------------------------------------
